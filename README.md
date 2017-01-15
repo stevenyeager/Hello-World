@@ -1,2 +1,2 @@
 # Hello-World
-Learning hte craft
+Learning the craft
